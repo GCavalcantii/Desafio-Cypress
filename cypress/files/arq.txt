@@ -1,0 +1,1 @@
+Arquivo utilizado para teste de upload no formulário Practice Form do DemoQA.
